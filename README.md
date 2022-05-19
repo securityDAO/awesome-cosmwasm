@@ -1,10 +1,11 @@
 # Awesome CosmWasm
-Awesome things in, for, and around [CosmWasm](https://github.com/CosmWasm/cosmwasm)
+Awesome things in, for, and around [CosmWasm](https://github.com/CosmWasm/cosmwasm)!
 ## Contents
 - [Apps](#apps)
 - [Chains](#chains)
 - [Contracts](#contracts)
 - [Education](#education)
+- [Execution](#execution)
 - [Organizations](#organizations)
 - [Security](#security)
 - [Tools](#tools)
@@ -35,6 +36,11 @@ Awesome things in, for, and around [CosmWasm](https://github.com/CosmWasm/cosmwa
 - [Interchain Standards](https://github.com/cosmos/ibc)
 - [Rust Book](https://doc.rust-lang.org/book/)
 - [RustWasm Book](https://rustwasm.github.io/docs/book/)
+## Execution
+- [cosmwasm-vm](https://github.com/CosmWasm/cosmwasm/tree/main/packages/vm)
+-  [wasmd](https://github.com/CosmWasm/wasmd)
+-  [wasmer](https://github.com/wasmerio/wasmer/)
+- [wasmvm](https://github.com/CosmWasm/wasmvm)
 ## Organizations
 TODO
 ## Tools
@@ -45,7 +51,7 @@ TODO
 -  [cw-vscode](https://github.com/oraichain/cw-vscode)
 - [Junø Tools](https://github.com/CosmosContracts/juno-tools)
 -  [rust-optimizer](https://github.com/CosmWasm/rust-optimizer)
--  [Serde](https://github.com/serde-rs/serde)
+-  [serde-json-wasm](https://github.com/CosmWasm/serde-json-wasm)
 -  [stargaze-tools](https://github.com/public-awesome/stargaze-tools)
 - [Twiggy](https://github.com/rustwasm/twiggy)
 ## UI
